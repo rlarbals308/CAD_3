@@ -1218,3 +1218,124 @@
 \i (00:31:12) generaledit 
 \i (00:31:14) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
 \i (00:31:55) zoom out 1 
+\i (00:31:55) setwindow pcb
+\i (00:31:55) zoom out 107.850 84.069
+\i (00:31:55) trapsize 682
+\i (00:31:55) zoom in 1 
+\i (00:31:55) setwindow pcb
+\i (00:31:55) zoom in 44.851 29.343
+\i (00:31:55) trapsize 341
+\i (00:31:55) zoom in 1 
+\i (00:31:55) setwindow pcb
+\i (00:31:55) zoom in 44.306 29.343
+\i (00:31:55) trapsize 171
+\i (00:32:02) save 
+\i (00:32:03) fillin yes 
+\i (00:32:03) generaledit 
+\i (00:33:41) zoom out 1 
+\i (00:33:41) setwindow pcb
+\i (00:33:41) zoom out 36.356 22.656
+\i (00:33:41) trapsize 341
+\i (00:33:41) zoom out 1 
+\i (00:33:41) setwindow pcb
+\i (00:33:41) zoom out 36.356 22.655
+\i (00:33:41) trapsize 682
+\i (00:33:41) zoom out 1 
+\i (00:33:41) setwindow pcb
+\i (00:33:41) zoom out 36.356 22.655
+\i (00:33:41) trapsize 1365
+\i (00:33:42) zoom in 1 
+\i (00:33:42) setwindow pcb
+\i (00:33:42) zoom in 38.710 19.107
+\i (00:33:42) trapsize 682
+\i (00:37:01) artwork 
+\i (00:37:04) setwindow form.film_control
+\i (00:37:04) FORM film_control select_all  
+\i (00:37:04) FORM film_control database_check NO 
+\i (00:37:06) FORM film_control filmtree 'MULTISEL NO' Design 
+\i (00:37:06) FORM film_control filmtree  Design 
+\i (00:37:07) FORM film_control create  
+\i (00:37:09) fillin no 
+\i (00:37:10) FORM film_control filmtree 'MULTISEL YES' Design 
+\i (00:37:10) FORM film_control create  
+\i (00:37:15) fillin yes 
+\t (00:37:15) Starting Create artwork films...
+\w (00:37:15) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:37:16) Artwork generated with warnings.
+\i (00:37:18) setwindow text
+\i (00:37:18) close 
+\i (00:37:22) setwindow form.film_control
+\i (00:37:22) FORM film_control ok  
+\i (00:37:22) setwindow pcb
+\i (00:37:22) generaledit 
+\i (00:37:41) artwork 
+\i (00:37:43) setwindow form.film_control
+\i (00:37:43) FORM film_control cancel  
+\i (00:37:43) setwindow pcb
+\i (00:37:43) generaledit 
+\i (00:37:46) status 
+\i (00:37:46) generaledit 
+\i (00:37:48) setwindow form.status
+\i (00:37:48) FORM status done  
+\i (00:38:48) setwindow pcb
+\i (00:38:48) zoom in 1 
+\i (00:38:48) setwindow pcb
+\i (00:38:48) zoom in 62.047 44.492
+\i (00:38:48) trapsize 341
+\i (00:38:48) zoom in 1 
+\i (00:38:48) setwindow pcb
+\i (00:38:48) zoom in 62.047 44.697
+\i (00:38:48) trapsize 171
+\i (00:38:56) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:38:56) QtSignal ColorVisibilityPane CVPGlobalVisOff clicked
+\i (00:38:57) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:38:59) zoom in 1 
+\i (00:38:59) setwindow pcb
+\i (00:38:59) zoom in 62.115 48.928
+\i (00:38:59) trapsize 85
+\i (00:38:59) zoom in 1 
+\i (00:38:59) setwindow pcb
+\i (00:38:59) zoom in 62.133 48.928
+\i (00:38:59) trapsize 43
+\i (00:39:03) zoom out 1 
+\i (00:39:03) setwindow pcb
+\i (00:39:03) zoom out 65.699 48.596
+\i (00:39:03) trapsize 85
+\i (00:39:03) zoom out 1 
+\i (00:39:03) setwindow pcb
+\i (00:39:03) zoom out 66.074 47.589
+\i (00:39:03) trapsize 171
+\i (00:39:04) zoom out 1 
+\i (00:39:04) setwindow pcb
+\i (00:39:04) zoom out 60.956 48.272
+\i (00:39:04) trapsize 341
+\i (00:39:09) artwork 
+\i (00:39:11) setwindow form.film_control
+\i (00:39:11) FORM film_control filmtree popup 'Display for Visibility' Design 
+\i (00:39:12) FORM film_control ok  
+\i (00:39:12) setwindow pcb
+\i (00:39:12) generaledit 
+\i (00:39:13) zoom out 1 
+\i (00:39:13) setwindow pcb
+\i (00:39:13) zoom out 36.595 28.892
+\i (00:39:13) trapsize 682
+\i (00:39:13) zoom out 1 
+\i (00:39:13) setwindow pcb
+\i (00:39:13) zoom out 36.595 28.893
+\i (00:39:13) trapsize 1365
+\i (00:39:14) zoom in 1 
+\i (00:39:14) setwindow pcb
+\i (00:39:14) zoom in 12.506 4.873
+\i (00:39:14) trapsize 682
+\i (00:39:15) zoom in 1 
+\i (00:39:15) setwindow pcb
+\i (00:39:15) zoom in 21.923 13.198
+\i (00:39:15) trapsize 341
+\i (00:39:24) artwork 
+\i (00:47:43) setwindow form.film_control
+\i (00:47:43) FORM film_control filmtree popup Add 'BOARD GEOMETRY/DESIGN_OUTLINE' DrillDraw 
+\i (00:47:53) setwindow form.scl_browser
+\i (00:47:53) FORM scl_browser treelist  OUTLINE 'BOARD GEOMETRY' 
+\i (00:47:55) FORM scl_browser done  
+\i (00:48:03) setwindow form.film_control
+\i (00:48:0
