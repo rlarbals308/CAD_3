@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Dynamic Status Report                                      )
+(                                                                     )
+(    Drawing          : CAD_3.brd                                     )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Wed Jul 31 15:23:05 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Dynamic shapes out of date: 1 out of 1
+  Current fill mode         : SMOOTH
+
+
+  <<<  ETCH  >>>
+
+    Layer = BOTTOM
+       State: Out of date  Point on shape: (5.000 5.000)  Net: GND
